@@ -2,38 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c59380-615f-4ea3-802a-8eb6ae3855ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zaur BlackBelt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/Methods1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson11/Methods3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson12/Methods4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson12/Methods5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/LinkedListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson15/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson16/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/ParametrazedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/ParametrizedClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/ParametrizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson7/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Schoolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson9/Exzaple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson18/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson19/HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson20/hashCodeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson21/MapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/TreeMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson23/LinkedHashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/HashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/HashSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/TreeSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/TreeSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/LinkedHashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/DequeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/PriorityQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/QueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/StaticNestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson30/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson31/LocalInner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/AnonimusClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson33/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson33/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson33/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/RemoveIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson34/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/ParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson35/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +92,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zlore\Desktop\ZaurJava\Zaur BlackBelt\src\lesson2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson34" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson16.BinarySearch" />
+  <component name="RunManager" selected="Application.Ex8">
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson36.Ex5" />
       <module name="Zaur BlackBelt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson16.*" />
+          <option name="PATTERN" value="lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.IteratorExample" />
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson36.Ex6" />
       <module name="Zaur BlackBelt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson13.*" />
+          <option name="PATTERN" value="lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14.LinkedListEx" />
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson36.Ex7" />
       <module name="Zaur BlackBelt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14.*" />
+          <option name="PATTERN" value="lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.Methods5" />
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson36.Ex8" />
       <module name="Zaur BlackBelt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.*" />
+          <option name="PATTERN" value="lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson15.Test" />
+    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson36.Ex9" />
       <module name="Zaur BlackBelt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson15.*" />
+          <option name="PATTERN" value="lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LinkedListEx" />
-        <item itemvalue="Application.IteratorExample" />
-        <item itemvalue="Application.Methods5" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex9" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex5" />
       </list>
     </recent_temporary>
   </component>
